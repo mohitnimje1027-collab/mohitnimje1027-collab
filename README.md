@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitnimje1027)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitnimje1027-collab)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitnimje1027@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_9340431436-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919340431436)
 
 </div>
 
@@ -102,14 +101,5 @@
 - 🔭 Exploring advanced **CNN architectures** and **Transformer-based vision models**
 - 🌱 Learning **MLOps** — model deployment, monitoring, and CI/CD pipelines
 - 🤝 Open to **research collaborations**, **internships**, and **AI/ML projects**
-- 📝 Documenting my ML experiments and insights
 
 ---
-
-<div align="center">
-
-*"Building scalable AI solutions and presenting findings with visual clarity and impact."*
-
-**💬 Feel free to reach out — I'm always open to interesting conversations and opportunities!**
-
-</div>
