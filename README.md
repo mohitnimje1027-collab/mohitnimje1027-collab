@@ -84,18 +84,6 @@
 
 ---
 
-
-## 🎓 Education
-
-| Degree | Institution | Period | Score |
-|--------|-------------|--------|-------|
-| **B.Tech — CS (AI & ML)** | VIT Bhopal University | Jun 2023 – May 2027 | GPA: **8.21** |
-| 12th Science | Atomic Energy Central School | Apr 2022 – May 2023 | **75.2%** |
-
-**Relevant Coursework:** Applied Machine Learning · Artificial Neural Networks · Deep Learning · Computer Vision
-
----
-
 ## 📈 What I'm Working On
 
 - 🔭 Exploring advanced **CNN architectures** and **Transformer-based vision models**
