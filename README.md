@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science (AI & ML)** at **VIT Bhopal University** *(2023 – 2027)* · GPA: **8.21**
+- 🎓 **B.Tech in Computer Science (AI & ML)** at **VIT Bhopal University** *(2023 – 2027)* · GPA: **8.3**
 - 🔬 Former **ML Research Intern** at **Raja Ramanna Centre for Advanced Technology (BARC)**, India's premier nuclear research institute
 - 🧠 Passionate about **Deep Learning, CNN architectures, Computer Vision**, and building real-world AI applications
 - 📊 Strong focus on turning model outputs into **clear visual narratives** using Matplotlib & OpenCV
