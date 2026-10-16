@@ -1,93 +1,161 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohit Nimje
+<!-- Typing animation header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E96F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohit+Nimje+%F0%9F%91%8B;ML+Engineer+%7C+AI+Researcher;Building+Minds%2C+One+Model+at+a+Time" alt="Typing SVG" />
 
-### 🤖 Machine Learning Engineer · Computer Vision Specialist · AI Researcher
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitnimje1027)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitnimje1027-collab)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitnimje1027@gmail.com)
+<!-- Subtle tagline -->
+*Training models by day · debugging loss curves by night*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitnimje1027)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitnimje1027@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohitnimje1027-collab)
+![Profile Views](https://komarev.com/ghpvc/?username=mohitnimje1027-collab&style=flat-square&color=6E96F7&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧭 Who am I?
 
-- 🎓 **B.Tech in Computer Science (AI & ML)** at **VIT Bhopal University** *(2023 – 2027)* · GPA: **8.3**
-- 🔬 Former **ML Research Intern** at **Raja Ramanna Centre for Advanced Technology (BARC)**, India's premier nuclear research institute
-- 🧠 Passionate about **Deep Learning, CNN architectures, Computer Vision**, and building real-world AI applications
-- 📊 Strong focus on turning model outputs into **clear visual narratives** using Matplotlib & OpenCV
-- 🚀 Building scalable AI solutions and presenting findings with **visual clarity and impact**
-- 📍 Based in **Indore, Madhya Pradesh, India**
-- 💡 Fun fact: I built a CNN that reduced manual beam analysis efforts at BARC by **~30%**!
-
----
-
-## 🛠️ Technical Skills
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python |
-| **ML / DL Frameworks** | PyTorch, TensorFlow, Scikit-learn |
-| **Computer Vision** | OpenCV, CNN, Image Classification, Data Preprocessing |
-| **Data & Visualization** | Pandas, NumPy, Matplotlib, Data Visualization, Visual Storytelling |
-| **Web / Backend** | Flask, React, Go, Docker, Redis |
-| **Tools & Platforms** | Git, GitHub, Docker Compose |
-| **Core Concepts** | Deep Learning, Feature Engineering, Model Evaluation & Optimization, Predictive Modeling |
+```python
+class MohitNimje:
+    role        = "ML Engineer & AI Researcher"
+    education   = "B.Tech CSE (AI/ML) · VIT · CGPA 8.3 · 2023–2027"
+    location    = "Indore, Madhya Pradesh, India 🇮🇳"
+    interests   = ["Computer Vision", "Deep Learning", "NLP", "Signal Processing"]
+    currently   = "Building cool things with neural networks"
+    fun_fact    = "I once trained a CNN on particle beams at a national lab"
+```
 
 ---
 
-## 💼 Experience
+## 🔬 Research & Experience
 
-### 🔬 Machine Learning Research Intern — *Raja Ramanna Centre for Advanced Technology (BARC)*
-**📅 May 2025 · 📍 Indore, Madhya Pradesh**
+<table>
+<tr>
+<td width="50px" align="center">🏛️</td>
+<td>
 
-> *BARC is India's premier nuclear research facility under the Department of Atomic Energy, Government of India.*
+**ML Research Intern** · *Raja Ramanna Centre for Advanced Technology (RRCAT)*
+`May 2025 – June 2025`
 
-- Designed and trained a **Convolutional Neural Network (CNN)** for beam image parameter estimation, achieving an approximate **0.14 validation MAE** and strong regression performance
-- Programmed a comprehensive **AI-based workflow** — including synthetic data generation, Gaussian modeling, noise augmentation, and data preparation — resulting in a **3× increase in dataset size** and **20% enhancement in architecture robustness**
-- Collaborated with cross-functional teams to integrate new frameworks with **accelerator beam diagnostic systems**, reducing manual analysis efforts by approximately **30%**
+- Designed & trained a **CNN** for beam image parameter estimation — **~0.14 validation MAE**
+- Built a synthetic data pipeline (Gaussian modelling + noise augmentation) → **3× dataset size**, **+20% robustness**
+- Integrated model with accelerator diagnostics system → **~30% reduction** in manual analysis effort
 
----
-
-## 🚀 Featured Projects
-
-### 🌐 [Web Trust Analyzer](https://github.com/mohitnimje1027-collab/Web_Trust_Analyzer) · *Dec 2025 – Mar 2026*
-> Real-time web trust scoring system with firewall, threat detection & interactive dashboard
-
-- Designed a 5-factor weighted Trust Scoring Algorithm in Go, achieving 100% classification accuracy across SQL injection, DDoS, and bot detection test scenarios.
-- Engineered a Redis caching layer reducing trust score retrieval latency by 90% (4ms → 0.5ms) across an 8-layer WAF middleware pipeline.
-- Built TBAC middleware dynamically enforcing 5 trust-tier access policies, doubling rate limits for trusted IPs and auto-blocking malicious actors with zero manual intervention.
-
-**Stack:** `Go` `Redis` `React` `Docker` `Docker Compose`
+</td>
+</tr>
+</table>
 
 ---
 
-### ✍️ [Signature Forgery Detector](https://github.com/mohitnimje1027-collab) · *Jan 2025 – Apr 2025*
-> Signature verification using a Multi-Layer Perceptron neural network — 92% accuracy
+## 🚀 Projects
 
-- Engineered a **Signature Verification Application** using an **MLP neural network**, achieving **92% accuracy** in distinguishing genuine signatures from forged ones
-- Built a full-scale predictive modeling pipeline using **OpenCV** and **Scikit-image** for data cleaning and feature extraction, improving prediction accuracy by **15%**
+<details>
+<summary><b>📈 Stock News Sentiment vs Price Movement Analyzer</b> &nbsp;<code>July – Aug 2026</code></summary>
 
-**Stack:** `Python` `MLP` `OpenCV` `Scikit-image` `Scikit-learn`
+<br/>
+
+> *"Can headlines predict markets? Turns out, sometimes yes."*
+
+- Built an **NLP pipeline** using **VADER** to score news headlines and correlate daily sentiment with Yahoo Finance returns across **30 Indian & US equities**
+- Discovered a **peak same-day correlation of +0.48**
+- Launched an **interactive dashboard** with **6 REST endpoints** and **multithreaded background jobs** for on-demand ticker analysis with charts and auto-generated insights
+
+</details>
+
+<details>
+<summary><b>✍️ Signature Forgery Detector</b> &nbsp;<code>Jan – Apr 2025</code></summary>
+
+<br/>
+
+> *"Teaching machines to spot the fakes humans miss."*
+
+- Engineered a **Signature Verification** app using an **MLP neural network** — **92% accuracy** on genuine vs. forged classification
+- End-to-end ML pipeline with **scikit-learn**, **OpenCV**, and **scikit-image** for feature extraction — **+15% prediction gain**
+
+</details>
+
+<details>
+<summary><b>🫀 Heart Health Predictor via Heartbeat Audio</b> &nbsp;<code>Sep – Dec 2024</code></summary>
+
+<br/>
+
+> *"A stethoscope that speaks machine learning."*
+
+- Built a **heartbeat sound classification platform** using **Random Forest** — **90% accuracy** on `.wav` audio through statistical feature engineering
+- Deployed a **Flask API** with real-time inference — **avg. response time: 2 seconds**
+
+</details>
 
 ---
 
-### ❤️ [Heart Health Prediction via Heartbeat](https://github.com/mohitnimje1027-collab) · *Sep 2024 – Dec 2024*
-> Data-driven heartbeat sound classification using Random Forests — ~90% accuracy
+## 🛠️ Tech Stack
 
-- Constructed a **heartbeat sound classification platform** using **Random Forest algorithms**, yielding approximately **90% accuracy** on `.wav` audio files through statistical feature extraction
-- Deployed a production-ready inference engine with **Flask**, enabling real-time predictions with response times of **< 2 seconds**
+<div align="center">
 
-**Stack:** `Python` `Random Forest` `Librosa` `Flask` `Scikit-learn`
+**Core ML/AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Data & Viz**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Concepts**
+
+`CNNs` `Deep Learning` `Computer Vision` `NLP` `Signal Processing` `REST APIs` `Flask`
+
+</div>
 
 ---
 
-## 📈 What I'm Working On
+## 📊 GitHub Stats
 
-- 🔭 Exploring advanced **CNN architectures** and **Transformer-based vision models**
-- 🌱 Learning **MLOps** — model deployment, monitoring, and CI/CD pipelines
-- 🤝 Open to **research collaborations**, **internships**, and **AI/ML projects**
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mohitnimje1027-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitnimje1027-collab&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mohitnimje1027-collab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
+
+## 🎓 Certifications
+
+| Certification | Issuer |
+|---|---|
+| Applied Machine Learning in Python | Coursera / Michigan |
+| Google IT Support | Google / Coursera |
+
+---
+
+## 💬 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting conversations about ML, research collaborations, or just geeking out over model architectures.
+
+**📬 mohitnimje1027@gmail.com**
+
+<br/>
+
+*"The model is never really done — just like us."*
+
+</div>
